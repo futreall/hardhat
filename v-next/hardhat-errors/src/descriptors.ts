@@ -397,7 +397,7 @@ Please re-run the command inside an interactive shell.`,
 
 Unless you are creating a task or plugin, this is probably a bug.
 
-Please [report it](https://github.com/nomiclabs/hardhat/issues/new) to help us improve Hardhat.`,
+Please [report it](https://github.com/NomicFoundation/hardhat/issues/new) to help us improve Hardhat.`,
       },
       ONLY_ESM_SUPPORTED: {
         number: 13,
@@ -481,7 +481,7 @@ Please install Hardhat locally using pnpm, npm or yarn, and try again.`,
         websiteTitle: "Invariant violation",
         websiteDescription: `An internal invariant was violated. This is probably caused by a programming error in Hardhat or in one of the used plugins.
 
-Please [report it](https://github.com/nomiclabs/hardhat/issues/new) to help us improve Hardhat.`,
+Please [report it](https://github.com/NomicFoundation/hardhat/issues/new) to help us improve Hardhat.`,
         shouldBeReported: true,
       },
       NOT_IMPLEMENTED_ERROR: {
@@ -490,7 +490,7 @@ Please [report it](https://github.com/nomiclabs/hardhat/issues/new) to help us i
         websiteTitle: "Not implemented",
         websiteDescription: `A code path that has not been implemented was unexpectedly triggered.
 
-Please [report it](https://github.com/nomiclabs/hardhat/issues/new) to help us improve Hardhat.`,
+Please [report it](https://github.com/NomicFoundation/hardhat/issues/new) to help us improve Hardhat.`,
         shouldBeReported: true,
       },
     },
