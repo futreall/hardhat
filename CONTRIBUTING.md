@@ -4,7 +4,7 @@ This document contains some tips on how to collaborate in this project.
 
 ## Filing an issue
 
-If you find a bug or want to propose a new feature, please [open an issue](https://github.com/nomiclabs/hardhat/issues/new). Pull requests are welcome, but we recommend you discuss it in an issue first, especially for big changes. This will increase the odds that we can accept your PR.
+If you find a bug or want to propose a new feature, please [open an issue](https://github.com/NomicFoundation/hardhat/issues/new). Pull requests are welcome, but we recommend you discuss it in an issue first, especially for big changes. This will increase the odds that we can accept your PR.
 
 ## GitHub project
 
@@ -46,7 +46,7 @@ The linter is always run in the CI, so make sure it passes before pushing code. 
 
 ## Branching
 
-We work on two branches, [`main`](https://github.com/nomiclabs/hardhat/tree/main) and [`development`](https://github.com/nomiclabs/hardhat/tree/development).
+We work on two branches, [`main`](https://github.com/NomicFoundation/hardhat/tree/main) and [`development`](https://github.com/NomicFoundation/hardhat/tree/development).
 
 The `main` branch is meant to be kept in sync with the latest released version of each package. Most pull requests are based on `main`, so when in doubt use this branch.
 
@@ -56,7 +56,7 @@ The development branch is meant to be used for major, risky changes that are rea
 
 If you are modifying the default config, adding a feature, or doing any kind of technical work that should be reflected in the documentation, the documentation change should be contained in the same branch and PR as the change.
 
-If you are working purely on the website or documentation, not as a result of a technical change, you should branch from [`main`](https://github.com/nomiclabs/hardhat/tree/main) and use it as the base branch in your pull request.
+If you are working purely on the website or documentation, not as a result of a technical change, you should branch from [`main`](https://github.com/NomicFoundation/hardhat/tree/main) and use it as the base branch in your pull request.
 
 Note that the `main` branch is automatically deployed, so take care when merging into it.
 
