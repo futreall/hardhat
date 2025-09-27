@@ -45,7 +45,7 @@ export class Resolver {
       `This plugin does not currently support importing interfaces from a library or package.
 
 Please open an issue on our github if you'd like to see this feature implemented:
-https://github.com/nomiclabs/hardhat/issues/new
+https://github.com/NomicFoundation/hardhat/issues/new
 `
     );
   };
