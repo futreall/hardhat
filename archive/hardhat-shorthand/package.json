@@ -2,8 +2,8 @@
   "name": "hardhat-shorthand",
   "version": "1.0.0",
   "description": "Launcher binary for Hardhat",
-  "homepage": "https://github.com/nomiclabs/hardhat/tree/main/packages/hardhat-shorthand",
-  "repository": "github:nomiclabs/hardhat",
+  "homepage": "https://github.com/NomicFoundation/hardhat/tree/main/packages/hardhat-shorthand",
+  "repository": "github:NomicFoundation/hardhat",
   "author": "Nomic Labs LLC",
   "license": "MIT",
   "bin": {
